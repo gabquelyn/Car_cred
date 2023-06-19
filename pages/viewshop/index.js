@@ -3,11 +3,11 @@ import Header from '../../components/Layout/Header';
 import Footer from '../../components/Layout/Footer';
 // import StarRating from '../../components/shopdetails/starsrating';
 import { useEffect, useState } from 'react';
-// import {
-//     Modal,
-//     Ripple,
-//     initTE,
-// } from "tw-elements";
+import {
+    Modal,
+    Ripple,
+    initTE,
+} from "tw-elements";
 import InspectionForm from '../../components/shopdetails/scheduleinspectionform';
 import ReviewSection from '../../components/shopdetails/reviews';
 
@@ -32,9 +32,9 @@ const StarRating = ({ rating }) => {
 
 const ShopDetails  = () => {
 
-// useEffect(() => {
-//     initTE({ Modal, Ripple });
-// }, []);
+useEffect(() => {
+    initTE({ Modal, Ripple });
+}, []);
 
 const shop = {
     name: 'Pep Boys',

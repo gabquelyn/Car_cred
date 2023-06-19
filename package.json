@@ -17,7 +17,7 @@
     "chartjs-adapter-moment": "^1.0.1",
     "formik": "^2.4.2",
     "framer-motion": "6.0.0",
-    "moment": "2.29.1",
+    "moment": "^2.29.4",
     "next": "^12.3.1",
     "postcss": "^8.4.17",
     "postcss-import": "^13.0.0",
@@ -37,7 +37,7 @@
   "devDependencies": {
     "@types/node": "20.3.1",
     "@types/react": "18.2.12",
-    "babel-plugin-inline-react-svg": "^1.1.2",
+    "babel-plugin-inline-react-svg": "^2.0.2",
     "typescript": "5.1.3"
   }
 }

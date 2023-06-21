@@ -5,11 +5,11 @@ import Footer from '../../components/Layout/Footer';
 import DashHeader from '../../components/Layout/Dash/DashHeader';
 import DashboardOverview from '../../components/Layout/Dash/DashboardOverview';
 import InspectionManagement from '../../components/Layout/Dash/InspectionManagement';
-import CustomerCommunication from '../../components/Layout/Dash/CustomerCommunication';
+// import CustomerCommunication from '../../components/Layout/Dash/CustomerCommunication';
 import WarrantyClaimsPage from '../../components/Layout/Dash/WarrantyClaimPage';
 import PaymentInvoicingPage from '../../components/Layout/Dash/PaymenInvoice';
-import SupportHelpCenterPage from '../../components/Layout/Dash/SupportHelp';
-import AnalyticsPerformancePage from '../../components/Layout/Dash/AnalyticsPerformancePage ';
+// import SupportHelpCenterPage from '../../components/Layout/Dash/SupportHelp';
+// import AnalyticsPerformancePage from '../../components/Layout/Dash/AnalyticsPerformancePage ';
 import ReportForm from '../../components/Layout/Dash/ReportForm';
 
 const Dashboard = () => {

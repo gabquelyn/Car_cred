@@ -1,5 +1,4 @@
 'use client'
-import { useEffect } from 'react';
 import Header from '../../components/Layout/Header';
 import Footer from '../../components/Layout/Footer';
 import CarGallery from '../../components/cardetails/CarGallery';

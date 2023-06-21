@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../../components/Layout/Header';
 import Footer from '../../components/Layout/Footer';
 // import StarRating from '../../components/shopdetails/starsrating';
-import { useEffect, useState } from 'react';
+import { useEffect} from 'react';
 import {
     Modal,
     Ripple,
